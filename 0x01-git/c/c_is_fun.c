@@ -1,0 +1,3 @@
+ls
+why now
+exit
